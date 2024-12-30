@@ -2,7 +2,7 @@
 
 Welcome to my C++ problem-solving repository! In this repository, I solve various algorithmic problems to enhance my programming skills in C++. Each problem is stored in its own directory, and this README will describe each of the exercises.
 
-## Exercise 1: Multiplication Table Generator (1 to 10)
+## Exercise 1: Matrix Generator
 
 ### Problem Statement:
 
