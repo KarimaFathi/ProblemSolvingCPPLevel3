@@ -11,8 +11,8 @@ int random(int from, int to) {
 
 
 void generateMatrixWithRandomNumbers(int arr[3][3], short rows, short cols) {
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
             arr[i][j] = random(1, 100);
         }
     }
@@ -20,8 +20,8 @@ void generateMatrixWithRandomNumbers(int arr[3][3], short rows, short cols) {
 
 
 void printMatrix(int arr[3][3], short rows, short cols) {
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
+    for (int i = 0; i < rows; i++) {
+        for (int j = 0; j < cols; j++) {
             cout << setw(3) << arr[i][j] << "\t";
         }
         cout << endl;
