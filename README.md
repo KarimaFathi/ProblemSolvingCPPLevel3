@@ -13,3 +13,15 @@ The task is to create a program that generates and displays a matrix of random i
 Below is an example of the program's output:
 
 ![3x3 matrix Output](images/Exo1_output.png)
+
+## Exercise 2: Sum Matrix Rows
+
+### Problem Statement:
+
+The task is to develop a program that generates a matrix of random integers, where the integers are between 1 and 100. The user will specify the dimensions of the matrix by providing the number of rows and columns. After generating the matrix, the program will calculate and display the sum of each row in the matrix.
+
+### Output:
+
+Below is an example of the program's output:
+
+![matrix each row sum Output](images/Exo2_output.png)
