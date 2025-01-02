@@ -78,10 +78,22 @@ Below is an example of the program's output:
 
 ### Problem Statement
 
-The problem statement is to generate two 3x3 matrices with random numbers between 1 and 100, multiply them element-wise, and display the original matrices and the result of the multiplication.
+The task is to generate two 3x3 matrices with random numbers between 1 and 100, multiply them element-wise, and display the original matrices and the result of the multiplication.
 
 ### Output:
 
 Below is an example of the program's output:
 
 ![Output of element-wise multiplication](images/Exo8_output.png)
+
+## Exercice 9: Print Middle Row And Column Of A Matrix
+
+### Problem Statement
+
+The task is to generate a 3x3 matrix with random numbers between 1 and 100 and display both the middle row and the middle column of the matrix.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of matrix's middle row & column](images/Exo9_output.png)
