@@ -38,7 +38,7 @@ Below is an example of the program's output:
 
 ![matrix each row sum Output](images/Exo3_output.png)
 
-## Exercice 3: Sum the Columns of a Matrix into a One-Dimensional Array
+## Exercice 4: Sum the Columns of a Matrix into a One-Dimensional Array
 
 ### Problem Statement
 
@@ -49,3 +49,15 @@ The task is to generate a 3x3 matrix of random integers between 1 and 100, calcu
 Below is an example of the program's output:
 
 ![matrix each col sum Output](images/Exo4_output.png)
+
+## Exercice 6: Fill Matrix With Ordered Numbers
+
+### Problem Statement
+
+The task is to generate a 3x3 matrix of ordered integers from 1 to the matrix length, and then display the matrix.
+
+### Output:
+
+Below is an example of the program's output:
+
+![matrix with ordered numbers Output](images/Exo6_output.png)
