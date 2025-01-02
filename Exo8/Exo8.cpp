@@ -51,5 +51,4 @@ int main()
     multiplyTwoMatrices(arr1, arr2, mulArr, 3, 3);
     cout << "\nResults : \n";
     printMatrix(mulArr, 3, 3);
-
 }
