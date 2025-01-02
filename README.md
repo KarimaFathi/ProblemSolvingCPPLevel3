@@ -108,4 +108,4 @@ The task is to generate a 3x3 matrix with random numbers between 1 and 100, calc
 
 Below is an example of the program's output:
 
-![Output of the sum of matrix elements](images/Exo9_output.png)
+![Output of the sum of matrix elements](images/Exo10_output.png)
