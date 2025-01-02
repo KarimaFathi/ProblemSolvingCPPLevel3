@@ -37,3 +37,15 @@ The task is to generate a 3x3 matrix of random integers between 1 and 100, calcu
 Below is an example of the program's output:
 
 ![matrix each row sum Output](images/Exo3_output.png)
+
+## Exercice 3: Sum the Columns of a Matrix into a One-Dimensional Array
+
+### Problem Statement
+
+The task is to generate a 3x3 matrix of random integers between 1 and 100, calculate the sum of each column, store the columns sums in a one-dimensional array, and then display the matrix along with the values in the one-dimensional array representing the columns sums.
+
+### Output:
+
+Below is an example of the program's output:
+
+![matrix each col sum Output](images/Exo4_output.png)
