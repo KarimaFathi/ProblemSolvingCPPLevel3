@@ -42,6 +42,5 @@ int main()
     generateMatrixWithRandomNumbers(arr, 3, 3);
     printMatrix(arr, 3, 3);
     cout << "Sum of matrix is : " << sumMatrix(arr, 3, 3);
-
 }
 
