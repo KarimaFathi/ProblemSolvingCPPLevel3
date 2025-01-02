@@ -61,3 +61,15 @@ The task is to generate a 3x3 matrix of ordered integers from 1 to the matrix le
 Below is an example of the program's output:
 
 ![matrix with ordered numbers Output](images/Exo6_output.png)
+
+## Exercice 7: Matrix Transpose
+
+### Problem Statement
+
+The task is to generate a 3x3 matrix of ordered integers from 1 to 9, compute its transpose, and then display both the matrix and its transpose.
+
+### Output:
+
+Below is an example of the program's output:
+
+![matrix transpose output](images/Exo7_output.png)
