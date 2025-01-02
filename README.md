@@ -73,3 +73,15 @@ The task is to generate a 3x3 matrix of ordered integers from 1 to 9, compute it
 Below is an example of the program's output:
 
 ![matrix transpose output](images/Exo7_output.png)
+
+## Exercice 8: Element-wise Multiplication of Two 3x3 Matrices with Random Values
+
+### Problem Statement
+
+The problem statement is to generate two 3x3 matrices with random numbers between 1 and 100, multiply them element-wise, and display the original matrices and the result of the multiplication.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of element-wise multiplication](images/Exo8_output.png)
