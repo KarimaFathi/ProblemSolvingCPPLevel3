@@ -97,3 +97,15 @@ The task is to generate a 3x3 matrix with random numbers between 1 and 100 and d
 Below is an example of the program's output:
 
 ![Output of matrix's middle row & column](images/Exo9_output.png)
+
+## Exercice 10: Sum Matrix Elements
+
+### Problem Statement
+
+The task is to generate a 3x3 matrix with random numbers between 1 and 100, calculate the sum of the matrix elements, and display both the matrix and the sum.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the sum of matrix elements](images/Exo9_output.png)
