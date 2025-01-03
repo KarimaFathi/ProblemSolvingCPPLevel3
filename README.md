@@ -109,3 +109,18 @@ The task is to generate a 3x3 matrix with random numbers between 1 and 100, calc
 Below is an example of the program's output:
 
 ![Output of the sum of matrix elements](images/Exo10_output.png)
+
+## Exercice 11: Check Matrices Equality 
+
+### Problem statement 
+
+The task is to generate two matrices filled with random numbers between 1 and 100. After generating the matrices, calculate the sum of the elements in each matrix. Then, compare the two sums and display both matrices along with the result of the comparison, indicating whether the sums are equal or not.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the comparison of the sums of the two matrices](images/Exo11_output.png)
+
+
+
