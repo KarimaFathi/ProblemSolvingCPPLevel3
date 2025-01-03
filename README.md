@@ -122,5 +122,12 @@ Below is an example of the program's output:
 
 ![Output of the comparison of the sums of the two matrices](images/Exo11_output.png)
 
+## Exercice 12: Check Matrices identity
 
+The task is to generate two matrices filled with random numbers between 1 and 100. After generating the matrices, compare each element in the first matrix with the corresponding element at the exact position in the second matrix. Then, display both matrices along with the result of the comparison, indicating whether the matrices are identical or not.
 
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the comparison of the two matrices 'elements](images/Exo12_output.png)
