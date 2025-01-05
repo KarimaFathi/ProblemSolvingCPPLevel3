@@ -145,3 +145,17 @@ The task is to verify whether a given matrix is an identity matrix. This can be 
 Below is an example of the program's output:
 
 ![Output of the verificaton of the matrix's elements](images/Exo13_output.png)
+
+## Exercice 14: Check Scalar Matrix
+
+### Problem statement
+
+The task is to verify whether a given matrix is a scalar matrix. This can be done by checking if the diagonal elements are all identical and if all other elements are zeros. After performing the verification, display the matrix along with the result of the verification.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the verificaton of the matrix's elements](images/Exo14_output.png)
+
+
