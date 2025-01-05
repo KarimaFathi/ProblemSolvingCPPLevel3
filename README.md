@@ -182,7 +182,7 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo16_output.png)
 
-## Exercice 16: Number Existence in Matrix
+## Exercice 17: Number Existence in Matrix
 
 ### Problem statement
 
