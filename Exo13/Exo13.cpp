@@ -42,7 +42,6 @@ int main()
 {
     int arr[3][3] = { {1,0,0} , {0,1,0} , {0,0,1} };
     printMatrix(arr, 3, 3);
-
     printResult(checkMatrixIdentity(arr, 3, 3));
     return 0;
 }
