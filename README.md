@@ -170,16 +170,26 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo15_output.png)
 
-### Exercice 16: Check Matrix Sparsity
+## Exercice 16: Check Matrix Sparsity
 
 ### Problem statement
 
 The task is to check if the matrix is sparse, meaning that the number of zero elements is greater than the number of non-zero elements. Then, display the matrix along with the result of the sparsity check.
+
 ### Output:
 
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo16_output.png)
 
+## Exercice 16: Number Existence in Matrix
 
+### Problem statement
 
+The task is to prompt the user for a number and check if it exists in a given matrix. Then, display the matrix along with the result, indicating whether the number exists or not.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo17_output.png)
