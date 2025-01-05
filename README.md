@@ -158,4 +158,14 @@ Below is an example of the program's output:
 
 ![Output of the verificaton of the matrix's elements](images/Exo14_output.png)
 
+## Exercice 15: Count Number In Matrix
 
+### Problem statement
+
+The task is to prompt the user for a number and calculate its frequency in the matrix. Then, display the matrix along with the frequency of the given number.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo15_output.png)
