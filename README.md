@@ -110,9 +110,9 @@ Below is an example of the program's output:
 
 ![Output of the sum of matrix elements](images/Exo10_output.png)
 
-## Exercice 11: Check Matrices Equality 
+## Exercice 11: Check Matrices Equality
 
-### Problem statement 
+### Problem statement
 
 The task is to generate two matrices filled with random numbers between 1 and 100. After generating the matrices, calculate the sum of the elements in each matrix. Then, compare the two sums and display both matrices along with the result of the comparison, indicating whether the sums are equal or not.
 
@@ -122,7 +122,9 @@ Below is an example of the program's output:
 
 ![Output of the comparison of the sums of the two matrices](images/Exo11_output.png)
 
-## Exercice 12: Check Matrices identity
+## Exercice 12: Check Matrices Equality
+
+### Problem statement
 
 The task is to generate two matrices filled with random numbers between 1 and 100. After generating the matrices, compare each element in the first matrix with the corresponding element at the exact position in the second matrix. Then, display both matrices along with the result of the comparison, indicating whether the matrices are identical or not.
 
@@ -131,3 +133,15 @@ The task is to generate two matrices filled with random numbers between 1 and 10
 Below is an example of the program's output:
 
 ![Output of the comparison of the two matrices 'elements](images/Exo12_output.png)
+
+## Exercice 13: Check Matrix Identity
+
+### Problem statement
+
+The task is to verify whether a given matrix is an identity matrix. This can be done by checking if the diagonal elements are all ones and if all other elements are zeros. After performing the verification, display the matrix along with the result of the verification.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the verificaton of the matrix's elements](images/Exo13_output.png)
