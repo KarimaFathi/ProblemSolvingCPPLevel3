@@ -193,3 +193,15 @@ The task is to prompt the user for a number and check if it exists in a given ma
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo17_output.png)
+
+## Exercice 18: Intersected Numbers in Matrices
+
+### Problem statement
+
+The task is to find the intersecting numbers in two matrices, store them in a one-dimensional array, and then display the two matrices along with the resulting array.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo18_output.png)
