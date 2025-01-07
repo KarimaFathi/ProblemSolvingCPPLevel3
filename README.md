@@ -205,3 +205,15 @@ The task is to find the intersecting numbers in two matrices, store them in a on
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo18_output.png)
+
+## Exercice 18: Find Min / Max in Matrix
+
+### Problem statement
+
+The task is to find the minimum and maximum elements from a given matrix and then display the matrix along with the results.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo19_output.png)
