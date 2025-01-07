@@ -206,7 +206,7 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo18_output.png)
 
-## Exercice 18: Find Min / Max in Matrix
+## Exercice 19: Find Min / Max in Matrix
 
 ### Problem statement
 
@@ -217,3 +217,16 @@ The task is to find the minimum and maximum elements from a given matrix and the
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo19_output.png)
+
+
+## Exercice 20: Palindrome Matrix
+
+### Problem statement
+
+The task is to evaluate whether a given matrix is a palindrome matrix, and then display the matrix along with the result.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo20_output.png)
