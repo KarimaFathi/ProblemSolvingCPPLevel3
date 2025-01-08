@@ -218,7 +218,6 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo19_output.png)
 
-
 ## Exercice 20: Palindrome Matrix
 
 ### Problem statement
@@ -230,3 +229,15 @@ The task is to evaluate whether a given matrix is a palindrome matrix, and then 
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo20_output.png)
+
+## Exercice 21: Fibonacci Series
+
+### Problem statement
+
+The task is to calculate and print a Fibonacci sequence for a given number of iterations.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo21_output.png)
