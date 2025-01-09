@@ -241,3 +241,15 @@ The task is to calculate and print a Fibonacci sequence for a given number of it
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo21_output.png)
+
+## Exercice 22: Fibonacci Series With Recursion
+
+### Problem statement
+
+The task is to calculate and print a Fibonacci sequence for a given number of iterations recursively.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo22_output.png)
