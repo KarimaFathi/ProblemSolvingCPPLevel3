@@ -17,7 +17,7 @@ void printFirstLetterOfStringWords(string stringToManipulate) {
 		if (i == 0) {
 			cout << endl << stringToManipulate.at(i) << endl;
 		}
-		else if (stringToManipulate[i] == ' ' && stringToManipulate[i + 1] != ' ') {
+		else if (stringToManipulate[i] == ' ' && i + 1 < stringToManipulate.length() && stringToManipulate[i + 1] != ' ') {
 				cout << stringToManipulate.at(i + 1) << endl;
 		}
 	}
