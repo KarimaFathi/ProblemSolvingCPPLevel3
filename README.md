@@ -266,10 +266,20 @@ Below is an example of the program's output:
 
 ## Exercice 24: Upper First Letter Of Each word
 
-The task is to display a string where the first letter of each word is capitalized..
+The task is to display a string where the first letter of each word is capitalized.
 
 ### Output:
 
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo24_output.png)
+
+## Exercice 25: Lowercase First Letter Of Each word
+
+The task is to display a string where the first letter of each word is written in lowercase.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo25_output.png)
