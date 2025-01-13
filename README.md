@@ -337,3 +337,15 @@ The task is to display, from a given string, its length along with the number of
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo29_output.png)
+
+## Exercice 30: Count Character Occurrences in a String
+
+### Problem statement
+
+The task is to count the occurrence of a given character in a given string and display the result.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo30_output.png)
