@@ -313,3 +313,15 @@ The task is to invert the case of a given character based on its current case.
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo27_output.png)
+
+## Exercice 27: Invert All Letters Case
+
+### Problem statement
+
+The task is to invert the case of each letter in a given string, based on its current case.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo28_output.png)
