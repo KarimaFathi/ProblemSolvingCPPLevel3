@@ -256,6 +256,8 @@ Below is an example of the program's output:
 
 ## Exercice 23: Print First Letter Of Each Word
 
+### Problem statement
+
 The task is to print the first letter of each word in a given string.
 
 ### Output:
@@ -265,6 +267,8 @@ Below is an example of the program's output:
 ![Output of the program](images/Exo23_output.png)
 
 ## Exercice 24: Upper First Letter Of Each word
+
+### Problem statement
 
 The task is to display a string where the first letter of each word is capitalized.
 
@@ -276,6 +280,8 @@ Below is an example of the program's output:
 
 ## Exercice 25: Lowercase First Letter Of Each word
 
+### Problem statement
+
 The task is to display a string where the first letter of each word is written in lowercase.
 
 ### Output:
@@ -283,3 +289,15 @@ The task is to display a string where the first letter of each word is written i
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo25_output.png)
+
+## Exercice 26: Upper/Lower All Letters Of a string
+
+### Problem statement
+
+The task is to display a given string, first with all its letters capitalized and second in lowercase.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo26_output.png)
