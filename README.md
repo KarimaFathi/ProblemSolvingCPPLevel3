@@ -314,7 +314,7 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo27_output.png)
 
-## Exercice 27: Invert All Letters Case
+## Exercice 28: Invert All Letters Case
 
 ### Problem statement
 
@@ -325,3 +325,15 @@ The task is to invert the case of each letter in a given string, based on its cu
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo28_output.png)
+
+## Exercice 29: Count Small/Capital Letters
+
+### Problem statement
+
+The task is to display, from a given string, its length along with the number of its capital letters and small letters.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo29_output.png)
