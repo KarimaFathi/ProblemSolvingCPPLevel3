@@ -301,3 +301,15 @@ The task is to display a given string, first with all its letters capitalized an
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo26_output.png)
+
+## Exercice 27: Invert Character Case
+
+### Problem statement
+
+The task is to invert the case of a given character based on its current case.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo27_output.png)
