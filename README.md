@@ -349,3 +349,15 @@ The task is to count the occurrence of a given character in a given string and d
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo30_output.png)
+
+## Exercice 31: Count Letters (match case)
+
+### Problem statement
+
+The task is to display, from a given string and a given character, first the number of occurrences of the character in that string with the same case as it was entered by the user, and second, its occurrence in both cases.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo31_output.png)
