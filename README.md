@@ -361,3 +361,15 @@ The task is to display, from a given string and a given character, first the num
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo31_output.png)
+
+## Exercice 32: Is Vowel ?
+
+### Problem statement
+
+The task is to display whether a given character is a vowel or not, regardless of whether it is uppercase or lowercase.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo32_output.png)
