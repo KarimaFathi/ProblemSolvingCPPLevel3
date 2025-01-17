@@ -373,3 +373,15 @@ The task is to display whether a given character is a vowel or not, regardless o
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo32_output.png)
+
+## Exercice 32: Vowels Number In A String
+
+### Problem statement
+
+The task is to count the number of vowels in a given string.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo33_output.png)
