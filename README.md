@@ -386,7 +386,6 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo33_output.png)
 
-
 ## Exercice 34: Print All Vowels In A String
 
 ### Problem statement
@@ -410,3 +409,15 @@ The task is to write each word of a string on a new line, one word at a time.
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo35_output.png)
+
+## Exercice 36: Count Each Word In String
+
+### Problem statement
+
+The task is to count the number of words in a given string and display the result.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo36_output.png)
