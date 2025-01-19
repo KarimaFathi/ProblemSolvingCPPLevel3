@@ -421,3 +421,16 @@ The task is to count the number of words in a given string and display the resul
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo36_output.png)
+
+## Exercice 37: Split String Using Vectors
+
+### Problem statement
+
+The task is to split a given string into individual words, store each word on a separate line using a vector, and then display the words along with the total number of tokens. 
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo37_output.png)
+
