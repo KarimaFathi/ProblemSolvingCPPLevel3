@@ -457,3 +457,15 @@ The task is to join the elements of a vector into one string using a delimiter.
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo39_output.png)
+
+## Exercice 40: Join String (OverLoading)
+
+### Problem statement
+
+The task is to join the elements of an array into one string using a delimiter using the same function name (OverLoading).
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo40_output.png)
