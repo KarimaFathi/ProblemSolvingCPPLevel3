@@ -469,3 +469,15 @@ The task is to join the elements of an array into one string using a delimiter u
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo40_output.png)
+
+## Exercice 41: Reverse String
+
+### Problem statement
+
+The task is to reverse a given string and display it from right to left.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo41_output.png)
