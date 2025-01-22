@@ -481,3 +481,11 @@ The task is to reverse a given string and display it from right to left.
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo41_output.png)
+
+## Exercice 42: Replace String
+
+### Problem statement
+
+The task is to replace a given word in a string with another specified word.
+
+![Output of the program](images/Exo42_output.png)
