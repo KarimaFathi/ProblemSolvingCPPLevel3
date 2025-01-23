@@ -509,3 +509,12 @@ Below is an example of the program's output:
 
 ## Exercice 44: Remove Punctuations
 
+### Problem statement
+
+The task is to remove punctuation from a given string.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo44_output.png)
