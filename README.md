@@ -488,4 +488,24 @@ Below is an example of the program's output:
 
 The task is to replace a given word in a string with another specified word.
 
+### Output:
+
+Below is an example of the program's output:
+
 ![Output of the program](images/Exo42_output.png)
+
+## Exercice 43: Replace Words (custom)
+
+### Problem statement
+
+The task is to replace a given word in a string with another specified word, considering both case-sensitive and case-insensitive options.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo43_output.png)
+
+
+## Exercice 44: Remove Punctuations
+
