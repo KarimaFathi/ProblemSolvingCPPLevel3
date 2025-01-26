@@ -529,3 +529,15 @@ The task is to convert a client record into a single line using a specified deli
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo45_output.png)
+
+## Exercice 46: Convert Line Data To Record
+
+### Problem statement
+
+The task is to convert a given client information string, separated by a specific delimiter, into a client record.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo46_output.png)
