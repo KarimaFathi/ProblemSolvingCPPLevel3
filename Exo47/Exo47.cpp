@@ -3,6 +3,7 @@
 #include <vector>
 #include <fstream>
 using namespace std;
+const string clientsFileName = "clients.txt";
 
 struct stClientInfo {
 	string accountNumber;
@@ -12,7 +13,8 @@ struct stClientInfo {
 	float accountBalance;
 };
 
-stClientInfo readNewClient(stClientInfo& clientInfo) {
+stClientInfo readNewClient() {
+	stClientInfo clientInfo;
 	cout << "Please enter your account number ? ";
 	cin >> clientInfo.accountNumber;
 	cout << "Please enter your pin code ? ";
@@ -27,7 +29,7 @@ stClientInfo readNewClient(stClientInfo& clientInfo) {
 	return clientInfo;
 }
 
-string convertRecordToStringWithDelim(stClientInfo clientInfo, string delim) {
+string convertRecordToLine(stClientInfo clientInfo, string delim) {
 	string clientRecord = "";
 	clientRecord += clientInfo.accountNumber + delim;
 	clientRecord += to_string(clientInfo.pinCode) + delim;
@@ -47,24 +49,31 @@ void addClientToFile(string fileName, string record) {
 }
 
 
+void AddNewClient()
+{
+	stClientInfo clientInfo;
+	clientInfo = readNewClient();
+	addClientToFile(clientsFileName,convertRecordToLine(clientInfo, "#//#"));
+}
+
+
+void addClients(){
+	char AddMore = 'Y';
+	do
+	{
+		system("cls");
+		cout << "Adding New Client:\n\n";
+		AddNewClient();
+		cout << "\nClient Added Successfully, do you want to add more clients ? Y / N ? ";
+			cin >> AddMore;
+	} while (toupper(AddMore) == 'Y');
+
+
+}
+
 
 int main()
 {
-	stClientInfo clientInfo;
-	string record;
-	bool isMoreClients = true;
-	string userInput;
-
-	while (isMoreClients == true) {
-		cout << "Adding new client : \n\n";
-		readNewClient(clientInfo);
-		record = convertRecordToStringWithDelim(clientInfo, "#//#");
-		addClientToFile("myfile.txt", record);
-		cout << "\nClient added successfully, do you want to add more clients ? (yes/no)  ";
-		cin >> userInput; 
-		if (userInput == "yes" || userInput == "YES") {
-			isMoreClients = true;
-		}
-		else isMoreClients = false;
-	}
+	addClients();
+	return 0;
 }
