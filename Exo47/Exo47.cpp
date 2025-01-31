@@ -48,14 +48,12 @@ void addClientToFile(string fileName, string record) {
 	}
 }
 
-
 void AddNewClient()
 {
 	stClientInfo clientInfo;
 	clientInfo = readNewClient();
 	addClientToFile(clientsFileName,convertRecordToLine(clientInfo, "#//#"));
 }
-
 
 void addClients(){
 	char AddMore = 'Y';
@@ -68,9 +66,7 @@ void addClients(){
 			cin >> AddMore;
 	} while (toupper(AddMore) == 'Y');
 
-
 }
-
 
 int main()
 {
