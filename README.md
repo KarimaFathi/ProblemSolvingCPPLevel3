@@ -541,3 +541,16 @@ The task is to convert a given client information string, separated by a specifi
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo46_output.png)
+
+## Exercice 47: Add Clients To File
+
+### Problem statement
+
+The task is to add clients records to a file as long as the user inputs 'Y'.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo47-1_output.png)
+![Output of the program](images/Exo47-2_output.png)
