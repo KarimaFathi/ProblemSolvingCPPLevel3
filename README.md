@@ -566,3 +566,16 @@ The task is to read client information from a file and display it in a structure
 Below is an example of the program's output:
 
 ![Output of the program](images/Exo48_output.png)
+
+## Exercice 49: Find Client By Account Number
+
+### Problem statement
+
+The task is to compare a given account number with those in the file. If a match is found, display the client record in a user-friendly format. If no match is found, print a message indicating that the given account number was not found.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo49_1_output.png)
+![Output of the program](images/Exo49_2_output.png)
