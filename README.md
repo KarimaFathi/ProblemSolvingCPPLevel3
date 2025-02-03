@@ -554,3 +554,15 @@ Below is an example of the program's output:
 
 ![Output of the program](images/Exo47-1_output.png)
 ![Output of the program](images/Exo47-2_output.png)
+
+## Exercice 48: Output Clients Data from File To The Console
+
+### Problem statement
+
+The task is to read client information from a file and display it in a structured table format. The client data is stored in a text file where each line represents a single client's information, with fields separated by a special delimiter. The program should process this file, extract relevant data, and present it in a user-friendly table format.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo48_output.png)
