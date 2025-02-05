@@ -593,3 +593,15 @@ Below is an example of the program's output:
 ![Output of the program](images/Exo50_output.png)
 
 ![Output of the program](images/Exo50_2_output.png)
+
+## Exercice 51: Update Client By Account Number
+
+The task is to manage client information stored in a file. The program will allow users to search for a client by their account number, display the client's details, and provide an option to update the client from the file. If the client is not found, the program will print that the client does not exist.
+
+### Output:
+
+Below is an example of the program's output:
+
+![Output of the program](images/Exo50_output.png)
+
+![Output of the program](images/Exo51_2_output.png)
