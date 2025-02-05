@@ -602,6 +602,6 @@ The task is to manage client information stored in a file. The program will allo
 
 Below is an example of the program's output:
 
-![Output of the program](images/Exo50_output.png)
+![Output of the program](images/Exo51_output.png)
 
 ![Output of the program](images/Exo51_2_output.png)
